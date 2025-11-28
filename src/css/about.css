@@ -26,7 +26,7 @@
 
         .about-image {
             margin-top: 50px;
-            width: clamp(280px, 40vw, 480px);
+            width: clamp(280px, 40vw, 450px);
         }
 
         .about-info {
